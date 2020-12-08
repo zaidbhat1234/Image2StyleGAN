@@ -1,5 +1,5 @@
 # Image2StyleGAN
-This is an implementation of the paper Image2StyleGAN
+This is an implementation of the paper Image2StyleGAN using StyleGAN-v1 as the backbone
 
 ## Acknowledgement
 This project is a part of my internship at King Adbullah University of Science and Technology(KAUST) under the supervision of Professor Peter Wonka
