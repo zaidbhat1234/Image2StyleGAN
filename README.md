@@ -8,7 +8,11 @@ This project is a part of my internship at King Adbullah University of Science a
 The code for the architecture was taken from https://github.com/pacifinapacific/StyleGAN_LatentEditor and the official TensorFlow weights were converted to Pytorch weights to be used in the project. This code uses the Official StyleGAN architecture from NVIDIA
 
 ## Pre-trained Model
-If you need the pre-trained SG model used as a backbone in the experiments, please contact me.
+
+Here are the pre-trained weights in TensorFlow and PyTorch (Converted from TensorFlow weights). This project makes use of PyTorch weights.
+If you need any additional information, please contact me.
+
+
 
 ## Experimental Results
 
