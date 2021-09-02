@@ -9,7 +9,10 @@ The code for the architecture was taken from https://github.com/pacifinapacific/
 
 ## Pre-trained Model
 
-Here are the pre-trained weights in TensorFlow and PyTorch (Converted from TensorFlow weights). This project makes use of PyTorch weights.
+Here are the pre-trained weights in TensorFlow and PyTorch (Converted from TensorFlow weights):
+[Google Drive](https://drive.google.com/drive/folders/1Zo5MV8DMzO_fn3gOMzrUvBxF7oKlN6dN?usp=sharing)
+
+This project makes use of PyTorch weights.
 If you need any additional information, please contact me.
 
 
